@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  transition: 0.1s;
+}
+
+html {
+  /* overflow-y: scroll; */
+  overflow-y: overlay;
+}
+
+/* body {
+  margin-right: 10px;
+} */
+
+.nav-flag {
+  width: 32px;
+  cursor: pointer;
+  /* box-shadow: 0 2px 5px rgb(45, 104, 143); */
+  border-radius: 2px;
+  margin-right: 5px;
+}
